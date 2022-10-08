@@ -1,19 +1,24 @@
 {
-    "notes": [
-        {
-            "id":"0",
-            "title": "Test Title",
-            "text": "note text goes here"
-        },
-        {
-            "id":"1",
-            "title": "Test Title 2",
-            "text": "Test text"
-        },
-        {
-            "id":"2",
-            "title": "Test Title 3",
-            "text": "Test text"
-        }
-    ]
+  "notes": [
+    {
+      "id": "0",
+      "title": "Test Title",
+      "text": "note text goes here"
+    },
+    {
+      "id": "1",
+      "title": "Test Title 2",
+      "text": "Test text"
+    },
+    {
+      "id": "2",
+      "title": "Test Title 3",
+      "text": "Test text"
+    },
+    {
+      "title": "Home address",
+      "text": "My managers home address is none of my business",
+      "id": "3"
+    }
+  ]
 }
