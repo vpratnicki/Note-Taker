@@ -41,7 +41,7 @@ const getNotes = () =>
     })
     .then(noteData => {
       console.log(noteData);
-      show(noteData);
+      renderNoteList(notes);
     });
 
 const saveNote = (note) =>

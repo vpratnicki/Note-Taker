@@ -1,21 +1,6 @@
 {
   "notes": [
     {
-      "id": "0",
-      "title": "Test Title",
-      "text": "note text goes here"
-    },
-    {
-      "id": "1",
-      "title": "Test Title 2",
-      "text": "Test text"
-    },
-    {
-      "id": "2",
-      "title": "Test Title 3",
-      "text": "Test text"
-    },
-    {
       "title": "Home address",
       "text": "My managers home address is none of my business",
       "id": "3"
@@ -29,6 +14,11 @@
       "title": "New Note",
       "text": "This is a new note to see what happens",
       "id": "5"
+    },
+    {
+      "title": "Call the Doc",
+      "text": "Couldn't think of another example.",
+      "id": "6"
     }
   ]
 }
