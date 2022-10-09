@@ -24,6 +24,11 @@
       "title": "Fixed title",
       "text": "My managers home address is none of my business",
       "id": "4"
+    },
+    {
+      "title": "New Note",
+      "text": "This is a new note to see what happens",
+      "id": "5"
     }
   ]
 }
