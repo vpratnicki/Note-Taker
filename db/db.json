@@ -1,34 +1,29 @@
 {
   "notes": [
     {
-      "title": "Home address",
-      "text": "My managers home address is none of my business",
-      "id": "3"
-    },
-    {
-      "title": "Fixed title",
-      "text": "My managers home address is none of my business",
-      "id": "4"
-    },
-    {
-      "title": "New Note",
+      "title": "Email Adam's teacher",
       "text": "This is a new note to see what happens",
       "id": "5"
     },
     {
       "title": "Call the Doc",
-      "text": "Couldn't think of another example.",
+      "text": "You turn 40 in 2 months!",
       "id": "6"
     },
     {
-      "title": "i am bacon",
-      "text": "bacon is the best",
-      "id": "7"
+      "title": "Create my README file",
+      "text": "Don't be lazy, get your work done!",
+      "id": "d7b9ee97-cf96-48a3-819a-bf7ffd8b2e72"
     },
     {
-      "title": "i am tacos",
-      "text": "tacos should be had",
-      "id": "72e511c3-355c-466f-b391-282f99bcd8ed"
+      "title": "Finish Module 12 ",
+      "text": "Complete the last 2 lessons and then you can go to the movies.",
+      "id": "7d5c32c9-2587-4ba5-ba73-14532ca1f853"
+    },
+    {
+      "title": "Email co-worker",
+      "text": "Give a status of project",
+      "id": "363eedd2-e15b-499d-9d5a-34a0b6352ba5"
     }
   ]
 }
