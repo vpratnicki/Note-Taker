@@ -14,7 +14,7 @@ Note Taker is an application that is used to write and save notes. This applicat
 
 Use this Note Take to keep track of daily tasks, chores or anything you need to keep track off. 
 
-[![Screen shot of app](/Challenges/Note-Taker/public/assets/img/note-taker.png)
+[![Screen shot of app](/public/assets/img/note-taker.png)
 
 View deployed application here: https://noter-taker-vpratnicki.herokuapp.com/
 
